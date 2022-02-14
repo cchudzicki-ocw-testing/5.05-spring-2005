@@ -7,7 +7,12 @@ description: 'This resource contains instructions for the exam and 10 questions 
   type, phospha-Wittig reagent, and hypothetical singlet phosphinidene.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/0260006467efef10d1827dc69693f57d_exam_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: exam_1.pdf
+type: OCWFile
 uid: 02600064-67ef-ef10-d182-7dc69693f57d
 ---
