@@ -9,6 +9,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-05-princip
 file_type: application/pdf
 learning_resource_types:
 - Exams
+ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
