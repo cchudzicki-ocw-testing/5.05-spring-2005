@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture_5.pdf
-type: OCWFile
 uid: 80547a77-0117-a7d9-c56a-d97c4df679e9
 ---
