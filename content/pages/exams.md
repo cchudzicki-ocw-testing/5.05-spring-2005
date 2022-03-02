@@ -27,7 +27,7 @@ EXAMS
 1-4
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 1 (In-class) ({{< resource_link 02600064-67ef-ef10-d182-7dc69693f57d "PDF" >}})
+Exam 1 (In-class) ({{% resource_link 02600064-67ef-ef10-d182-7dc69693f57d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +45,7 @@ Exam 2 (Oral Presentations)
 8-11
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 3 (Take-home) ({{< resource_link 7d3de36e-eac3-933c-2cce-a2fa8b1a6ec3 "PDF" >}})
+Exam 3 (Take-home) ({{% resource_link 7d3de36e-eac3-933c-2cce-a2fa8b1a6ec3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
