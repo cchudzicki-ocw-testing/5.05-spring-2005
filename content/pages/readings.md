@@ -39,9 +39,9 @@ Molina, J., J. A. Dobado, G. L. Heard, R. F. W. Bader, and M. R. Sundberg. "Reco
 Aluminum Chemistry I
 {{< tdclose >}}{{< tdopen >}}
 
-Hardman, Ned J., Chunming Cui, Herbert W. Roesky, William H. Fink, and Philip P. Power. "Stable, Monomeric Imides of Aluminum and Gallium: Synthesis and Characterization of \[{HC(MeCDippN){{< sub "2" >}}}MN-2,6-Trip{{< sub "2" >}}C{{< sub "6" >}}H{{< sub "3" >}}\] (M=Al or Ga; Dipp=2,6-*iPr*{{< sub "2" >}}*C*{{< sub "6" >}}*H*{{< sub "3" >}}*; Trip=2,4,6-iPr*{{< sub "3" >}}*C*{{< sub "6" >}}*H*{{< sub "2" >}}*)." \_Angewandte Chemie International Edition* 40, no. 11 (June 1, 2001): 2172-2174.
+Hardman, Ned J., Chunming Cui, Herbert W. Roesky, William H. Fink, and Philip P. Power. "Stable, Monomeric Imides of Aluminum and Gallium: Synthesis and Characterization of \[{HC(MeCDippN){{< sub "2" >}}}MN-2,6-Trip{{< sub "2" >}}C{{< sub "6" >}}H{{< sub "3" >}}\] (M=Al or Ga; Dipp=2,6-*iPr*{{< sub "2" >}}*C*{{< sub "6" >}}*H*{{< sub "3" >}}*; Trip=2,4,6-iPr*{{< sub "3" >}}*C*{{< sub "6" >}}*H*{{< sub "2" >}}*)." Angewandte Chemie International Edition* 40, no. 11 (June 1, 2001): 2172-2174.
 
-Cui, Chunming, Herbert W. Roesky, Hans-Georg Schmidt, and Mathias Noltemeyer. "\[HC{(CMe)(NAr)}{{< sub "2" >}}\]Al\[(NSiMe{{< sub "3" >}}){{< sub "2" >}}N{{< sub "2" >}}\] (Ar=2,6-*i\_Pr*{{< sub "2" >}}*C*{{< sub "6" >}}*H*{{< sub "3" >}}*): The First Five-Membered AlN*{{< sub "4" >}} *Ring System." \_Angewandte Chemie International Edition* 39, no. 24 (December 15, 2000): 4531-4533.
+Cui, Chunming, Herbert W. Roesky, Hans-Georg Schmidt, and Mathias Noltemeyer. "\[HC{(CMe)(NAr)}{{< sub "2" >}}\]Al\[(NSiMe{{< sub "3" >}}){{< sub "2" >}}N{{< sub "2" >}}\] (Ar=2,6-*iPr*{{< sub "2" >}}*C*{{< sub "6" >}}*H*{{< sub "3" >}}*): The First Five-Membered AlN*{{< sub "4" >}} *Ring System." Angewandte Chemie International Edition* 39, no. 24 (December 15, 2000): 4531-4533.
 
 Peng, Ying, Hongjun Fan, Hongping Zhu, Herbert W. Roesky, Jörg Magull, and Colan E. Hughes. "\[{HC(CMeNAr){{< sub "2" >}}}{{< sub "2" >}}Al{{< sub "2" >}}P{{< sub "4" >}}\] (Ar=2,6-*iPr*{{< sub "2" >}}*C*{{< sub "6" >}}*H*{{< sub "3" >}}*): A Reduction to a Formal {P*{{< sub "4" >}}*}*{{< sup "4-" >}} *Charged Species." Angewandte Chemie International Edition* 43, no. 26 (June 28, 2004): 3443-3445.
 
