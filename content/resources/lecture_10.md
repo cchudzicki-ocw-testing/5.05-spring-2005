@@ -1,6 +1,7 @@
 ---
 content_type: resource
-description: ''
+description: Notes on studying powerful oxidants, noble gas chemistry, and VSEPR -
+  ELF.
 file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/953ddac0de2b3de250bd65445a94de65_lecture_10.pdf
 file_type: application/pdf
 learning_resource_types:
