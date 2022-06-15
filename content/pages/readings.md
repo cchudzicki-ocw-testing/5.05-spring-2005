@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides bibliographic citations of course readings, organized
+  by session and topic.
 draft: false
 learning_resource_types:
 - Readings
