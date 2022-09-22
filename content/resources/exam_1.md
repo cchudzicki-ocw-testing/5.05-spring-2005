@@ -9,6 +9,7 @@ file: /courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/0260006467
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
